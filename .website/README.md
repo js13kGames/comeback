@@ -1,0 +1,5 @@
+---
+# See github.com/js13kGames/hello-world for supported frontmatter
+---
+
+You want to be an Astronaut, but before you become an Astronaut you should train a lot. This summer, you have the opportunity to take part in an training program to improve your skills. You will have to visit different planets before you become an Astronaut. Do you will comeback to the Earth?
